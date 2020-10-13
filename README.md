@@ -1,2 +1,4 @@
 # Foundation of data mining
-Course's assignments
+Assignments parts of the Foundations of data mining course at TU/e Eindhoven University of Technology.
+
+For more details see the Assignment_description file in each of the folder.
